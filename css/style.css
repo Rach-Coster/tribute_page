@@ -1,58 +1,62 @@
 body{
-background-color: #ED1942;
+    background-color: #ED1942;
 }
 
 h1{
-  font-family: 'Lora', sans-serif;
+    font-family: 'Lora', sans-serif;
 } 
 
 h3, h4, h5, footer{
-  font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
-.header {
-  padding-top: 70px;
-  color: white;
-  text-align: center;
+.header{
+    padding-top: 70px;
+    color: white;
+    text-align: center;
 }
 
 .video{
-  padding-top: 20px;
-  height: 70vh;
-  display: inline-block;
-  margin-bottom: 50px; 
+    padding-top: 20px;
+    height: 70vh;
+    display: inline-block;
+    margin-bottom: 50px; 
 }
 
 .video-detail{
-  background-color: white;
-  color: black;
-  border-radius: 2px;
-  max-width: 888px;
-  text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 2px;
+    max-width: 888px;
+    text-align: center;
 }
 
 .paragraphs{
-  padding-top: 20px; 
-  color: black;
-  background-color: white; 
+    padding-top: 20px; 
+    color: black;
+    background-color: white; 
 }
 
-.paragraphs h1, h5{
-  margin-left: 10px;
+h1.paragraphs{
+    margin-left: 10px;
+}
+
+h5.paragraphs{
+    margin-left: 10px;
 }
 
 .footer{
-  color: white;
-  background-color: #ED1942;
+    color: white;
+    background-color: #ED1942;
 }
 
-.footer h4{
-  margin-left: 10px;
+h4.footer{
+    margin-left: 10px;
 }
 
 i{
-  color: white; 
-  margin-left: 5px;
+    color: white; 
+    margin-left: 5px;
 }
 
 .logos{
